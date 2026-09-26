@@ -1,0 +1,37 @@
+[
+    {
+        "id_producto": "P001",
+        "nombre": "Pizza de Piña",
+        "precio": 10.0,
+        "categoria": "Platos Fuertes",
+        "stock": 12
+    },
+    {
+        "id_producto": "P002",
+        "nombre": "Ceviche de Concha",
+        "precio": 14.5,
+        "categoria": "Platos Fuertes",
+        "stock": 10
+    },
+    {
+        "id_producto": "P003",
+        "nombre": "Jugo de Naranja",
+        "precio": 2.5,
+        "categoria": "Bebidas",
+        "stock": 30
+    },
+    {
+        "id_producto": "P004",
+        "nombre": "Alitas moztaza y miel",
+        "precio": 8.0,
+        "categoria": "Platos Fuertes",
+        "stock": 10
+    },
+    {
+        "id_producto": "P005",
+        "nombre": "Tres leches",
+        "precio": 3.0,
+        "categoria": "Postres",
+        "stock": 20
+    }
+]
